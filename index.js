@@ -9,5 +9,6 @@ module.exports = { name, height
 if (name === "Susan") {
   console.long ("The name is corret")
 }
-
-
+else {
+  console.log("Expectged the name to be Susan")
+}
